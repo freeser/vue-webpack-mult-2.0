@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/assets/js/*.js
+src/assets/js/jweixin/*.js
